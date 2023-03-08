@@ -1,4 +1,4 @@
-# CPSC 474
+# Parallel Computing-CPSC 474
 Fall 2022
 
 ## Group members:

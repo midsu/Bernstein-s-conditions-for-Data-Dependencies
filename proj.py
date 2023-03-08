@@ -1,5 +1,4 @@
 # Authors:  Chandra Lindy & Hamid Suha
-# Contact Info:  chandra.lindy@csu.fullerton.edu
 # Date:  Oct 14, 2022
 # Purpose:  Data dependency checking within sets of instructions
 
